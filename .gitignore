@@ -36,6 +36,13 @@ nppBackup
 models/*
 gpu/checkpoints/*
 
+# PyTorch model files
+*.pt
+*.pth
+*.pkl
+*.ckpt
+*.safetensors
+
 # Python
 
 /.venv
